@@ -4,4 +4,5 @@
 - Research persistence to learn how to store the information so when app reboots the informatoin remains
 - Add more fields to crease a more thorough introduction
 
-|<img src="Demo.gif" width="400" /> |
+|<img src="Demo.gif" width="400" />|
+| - |
